@@ -1,3 +1,5 @@
-npx create-react-app taskmate
-npm install
-npm start
+-- npx create-react-app taskmate
+
+--npm install
+
+--npm start
